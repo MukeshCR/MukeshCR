@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MukeshCR
-- 👀 I’m interested in Automating Everthing
+- 👀 I’m interested in Automating Repeated Tasks.
 - 🌱 I’m currently learning Automation Tools and Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ......crkumarmukesh@gmail.com
